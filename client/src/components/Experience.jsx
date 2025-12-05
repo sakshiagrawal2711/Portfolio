@@ -6,7 +6,7 @@ const experiences = [
         role: "Research Analyst Intern",
         company: "Concentrix",
         period: "2025 - 2025",
-        description: "Leading the frontend team in building scalable web applications using React and TypeScript."
+        description: "Conducted data-driven analysis on customer behavior and service usage patterns for a major OTT and sports streaming platform."
     },
     {
         role: "Full Stack Developer",
