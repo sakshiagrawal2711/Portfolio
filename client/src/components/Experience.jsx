@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 
 const experiences = [
     {
-        role: "Senior Frontend Developer",
-        company: "Tech Corp",
-        period: "2023 - Present",
-        description: "Leading the frontend team in building scalable web applications using React and TypeScript."
+        role: "Research Analyst Intern",
+        company: "Concentrix",
+        period: "2025 - 2025",
+        description: "Conducted data-driven analysis on customer behavior and service usage patterns for a major OTT and sports streaming platform."
     },
     {
         role: "Full Stack Developer",
