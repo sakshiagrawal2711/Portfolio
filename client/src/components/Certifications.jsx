@@ -9,9 +9,9 @@ const certifications = [
         link: "#"
     },
     {
-        name: "Meta Frontend Developer",
-        issuer: "Coursera",
-        date: "2022",
+        name: "DSA With Java",
+        issuer: "Apna COllege",
+        date: "2025",
         link: "#"
     },
     {
