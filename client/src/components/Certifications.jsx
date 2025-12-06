@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 
 const certifications = [
     {
-        name: "AWS Certified Solutions Architect",
-        issuer: "Amazon Web Services",
-        date: "2023",
+        name: "Introduction to Data Engineering",
+        issuer: "IBM Coursera",
+        date: "2025",
         link: "#"
     },
     {
