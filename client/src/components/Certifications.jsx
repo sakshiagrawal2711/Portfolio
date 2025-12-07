@@ -5,38 +5,38 @@ const certifications = [
     {
         name: "Cloud Security on AWS",
         issuer: "Edureka",
-        date: "2025", // Assuming recent based on context, or leave date out if unsure. Resume had 2025 for some.
-        link: "public/certificates/cloud.pdf"
+        date: "2025",
+        link: "/certificates/cloud.pdf"
     },
     {
         name: "Databases and SQL for Data Science with Python",
         issuer: "IBM",
         date: "2025",
-        link: "#"
+        link: "/certificates/Databases_and_SQL_for_Data_Science_with_Python.pdf"
     },
     {
         name: "Introduction to HTML, CSS, & JavaScript",
         issuer: "IBM",
         date: "2025",
-        link: "#"
+        link: "/certificates/Introduction_to_HTML_CSS_JavaScript.pdf"
     },
     {
         name: "Introduction to Data Engineering",
         issuer: "IBM",
         date: "2025",
-        link: "#"
+        link: "/certificates/Introduction_to_Data_Engineering.pdf"
     },
     {
         name: "Python for Data Science, AI & Development",
         issuer: "IBM",
         date: "2025",
-        link: "#"
+        link: "/certificates/Python_for_Data_Science_AI_Development.pdf"
     },
     {
         name: "NPTEL AIML",
         issuer: "NPTEL",
         date: "2024",
-        link: "#"
+        link: "/certificates/NPTEL_AIML.pdf"
     }
 ];
 
@@ -74,6 +74,8 @@ const Certifications = () => {
 
                             <a
                                 href={cert.link}
+                                target="_blank"
+                                rel="noopener noreferrer"
                                 className="text-sm text-purple-400 hover:text-purple-300 flex items-center gap-2"
                             >
                                 View Certificate <span>→</span>
