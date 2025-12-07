@@ -21,7 +21,7 @@ const Hero = () => {
                 className="text-6xl md:text-8xl font-bold mb-6 gradient-text tracking-tight"
             >
                 Creative<br />Developer
-                <span className="block text-4xl md:text-6xl mt-4 text-white">Full Stack & Android</span>
+                <span className="block text-4xl md:text-6xl mt-4 text-white"></span>
             </motion.h1>
 
             <motion.p
@@ -30,8 +30,7 @@ const Hero = () => {
                 transition={{ delay: 0.4 }}
                 className="text-xl md:text-2xl text-gray-400 mb-10 max-w-2xl font-light"
             >
-                Final-year CSE student specializing in full-stack web development (MERN) and Android application development.
-                Building scalable web apps and mobile applications with Java, React.js, Node.js, and MongoDB.
+                Developing Impactful Software Solutions.
             </motion.p>
 
             <motion.div
