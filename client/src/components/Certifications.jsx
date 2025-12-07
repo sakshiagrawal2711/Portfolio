@@ -3,21 +3,27 @@ import { motion } from 'framer-motion';
 
 const certifications = [
     {
-        name: "Introduction to Data Engineering",
-        issuer: "IBM Coursera",
-        date: "2025",
+        name: "NPTEL AIML",
+        issuer: "NPTEL",
+        date: "2024",
         link: "#"
     },
     {
-        name: "DSA With Java",
-        issuer: "Apna COllege",
-        date: "2025",
+        name: "IBM Python for Data Science",
+        issuer: "IBM",
+        date: "2023",
         link: "#"
     },
     {
-        name: "Google UX Design Professional",
-        issuer: "Google",
-        date: "2021",
+        name: "IBM Data Engineering",
+        issuer: "IBM",
+        date: "2023",
+        link: "#"
+    },
+    {
+        name: "Full Stack Web Development",
+        issuer: "Udemy/Coursera", // Assuming issuer, update if known
+        date: "2023",
         link: "#"
     }
 ];

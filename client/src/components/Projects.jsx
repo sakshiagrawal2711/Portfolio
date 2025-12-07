@@ -3,22 +3,22 @@ import { motion } from 'framer-motion';
 
 const projects = [
     {
-        title: "E-Commerce Platform",
-        description: "A full-stack e-commerce solution with payment integration.",
-        tags: ["React", "Node.js", "MongoDB"],
-        link: "https://github.com/yourusername/project1"
+        title: "SLAT – Sign Language Assistant Tool",
+        description: "Real-time communication tool using WebRTC & gesture-detection. Won Best Gen AI Project Award 2025.",
+        tags: ["MERN", "WebRTC", "Python", "Node.js"],
+        link: "#" // Add actual link if available or keep placeholder
     },
     {
-        title: "Portfolio Website",
-        description: "An interactive 3D portfolio built with Three.js.",
-        tags: ["React", "Three.js", "Tailwind"],
-        link: "https://github.com/yourusername/project2"
+        title: "Health Coach",
+        description: "Full Stack Fitness Platform with authentication, user dashboards, and analytics.",
+        tags: ["React", "Node.js", "MongoDB", "REST APIs"],
+        link: "#"
     },
     {
-        title: "Task Manager",
-        description: "A productivity app for managing daily tasks.",
-        tags: ["Vue", "Firebase"],
-        link: "https://github.com/yourusername/project3"
+        title: "TaskTrack",
+        description: "Mobile task-management app with offline support and notification-based reminders.",
+        tags: ["Android (Java)", "SQLite", "XML"],
+        link: "#"
     }
 ];
 

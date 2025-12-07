@@ -36,10 +36,25 @@ const About = () => {
                         transition={{ delay: 0.2, duration: 0.5 }}
                         className="text-lg text-gray-300 mb-8 leading-relaxed font-light"
                     >
-                        I am a passionate developer with expertise in building modern web applications.
-                        I love creating immersive user experiences using technologies like React, Three.js, and Node.js.
-                        My goal is to build software that not only solves problems but also inspires users.
+                        Final-year Computer Science Engineering student specializing in full-stack web development (MERN) and Android application development (Java).
+                        Experienced in building scalable web apps, APIs, and mobile applications with strong skills in Java, React.js, Node.js, MongoDB, and Android SDK.
+                        Proven ability to design modular systems, optimize performance, and deploy cloud-based applications. 3× Hackathon winner with hands-on experience in agile engineering environments.
                     </motion.p>
+                    <div className="mb-8">
+                        <h3 className="text-2xl font-bold mb-4 text-purple-400">Education</h3>
+                        <div className="glass-panel p-6 rounded-xl">
+                            <h4 className="text-xl font-bold text-white">Bachelor of Technology in Computer Science Engineering</h4>
+                            <p className="text-gray-300">Presidency University Bengaluru, India</p>
+                            <div className="flex justify-between mt-2 text-sm text-gray-400">
+                                <span>Expected Jul 2026</span>
+                                <span className="text-purple-400 font-bold">CGPA: 8.50</span>
+                            </div>
+                            <p className="mt-4 text-sm text-gray-400">
+                                Relevant Coursework: Data Structures, Algorithms, OOP, DBMS, Computer Networks, Operating Systems, Web Technologies, Mobile App Development
+                            </p>
+                        </div>
+                    </div>
+
                     <motion.div
                         initial={{ opacity: 0, y: 20 }}
                         whileInView={{ opacity: 1, y: 0 }}

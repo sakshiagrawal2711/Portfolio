@@ -4,21 +4,9 @@ import { motion } from 'framer-motion';
 const experiences = [
     {
         role: "Research Analyst Intern",
-        company: "Concentrix",
-        period: "2025 - 2025",
-        description: "Conducted data-driven analysis on customer behavior and service usage patterns for a major OTT and sports streaming platform."
-    },
-    {
-        role: "Full Stack Developer",
-        company: "Creative Agency",
-        period: "2021 - 2023",
-        description: "Developed interactive websites and managed backend services using Node.js and MongoDB."
-    },
-    {
-        role: "Junior Developer",
-        company: "StartUp Inc",
-        period: "2020 - 2021",
-        description: "Collaborated with designers to implement responsive UI components and fix bugs."
+        company: "Concentrix, Bengaluru",
+        period: "Jul 2025 – Sep 2025",
+        description: "Performed data analysis on user activity logs to identify patterns and system bottlenecks. Built automated data-cleaning scripts in Python to improve reporting efficiency. Collaborated with cross-functional teams to improve customer experience and service workflows."
     }
 ];
 
