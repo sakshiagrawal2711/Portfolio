@@ -6,7 +6,7 @@ const certifications = [
         name: "Cloud Security on AWS",
         issuer: "Edureka",
         date: "2025", // Assuming recent based on context, or leave date out if unsure. Resume had 2025 for some.
-        link: "#"
+        link: "public/certificates/cloud.pdf"
     },
     {
         name: "Databases and SQL for Data Science with Python",
