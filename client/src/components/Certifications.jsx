@@ -3,27 +3,39 @@ import { motion } from 'framer-motion';
 
 const certifications = [
     {
+        name: "Cloud Security on AWS",
+        issuer: "Edureka",
+        date: "2025", // Assuming recent based on context, or leave date out if unsure. Resume had 2025 for some.
+        link: "#"
+    },
+    {
+        name: "Databases and SQL for Data Science with Python",
+        issuer: "IBM",
+        date: "2025",
+        link: "#"
+    },
+    {
+        name: "Introduction to HTML, CSS, & JavaScript",
+        issuer: "IBM",
+        date: "2025",
+        link: "#"
+    },
+    {
+        name: "Introduction to Data Engineering",
+        issuer: "IBM",
+        date: "2025",
+        link: "#"
+    },
+    {
+        name: "Python for Data Science, AI & Development",
+        issuer: "IBM",
+        date: "2025",
+        link: "#"
+    },
+    {
         name: "NPTEL AIML",
         issuer: "NPTEL",
         date: "2024",
-        link: "#"
-    },
-    {
-        name: "IBM Python for Data Science",
-        issuer: "IBM",
-        date: "2023",
-        link: "#"
-    },
-    {
-        name: "IBM Data Engineering",
-        issuer: "IBM",
-        date: "2023",
-        link: "#"
-    },
-    {
-        name: "Full Stack Web Development",
-        issuer: "Udemy/Coursera", // Assuming issuer, update if known
-        date: "2023",
         link: "#"
     }
 ];
